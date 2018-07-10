@@ -1,0 +1,9 @@
+[package]
+name = "lock-free-queue"
+version = "0.1.0"
+authors = ["Antoni Boucher <antoni.boucher@adgear.com>"]
+
+[dependencies]
+
+[profile.release]
+debug = true
